@@ -2,44 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://sysmodel.github.io/menu1/index.html</loc>
-    <lastmod>2022-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
     <loc>https://sysmodel.github.io/_index/index.html</loc>
-    <lastmod>2022-10-12</lastmod>
+    <lastmod>2022-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://sysmodel.github.io/404/index.html</loc>
-    <lastmod>2022-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://sysmodel.github.io/menu2/index.html</loc>
-    <lastmod>2022-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://sysmodel.github.io/menu3/index.html</loc>
-    <lastmod>2022-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://sysmodel.github.io/new_page/</loc>
-    <lastmod>2022-10-12</lastmod>
+    <lastmod>2022-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://sysmodel.github.io/index/</loc>
-    <lastmod>2022-10-12</lastmod>
+    <lastmod>2022-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
