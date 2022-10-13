@@ -1170,12 +1170,12 @@ transition: 0.00001s all;
   color: #EE7F38;
 }
 
-#contact .contact-address, #contact .contact-phone, #contact .contact-email {
+#contact .contact-address, #contact .contact-phone, #contact .contact-email, #contact .contact-linkedin {
   margin-bottom: 0px;
 }
 
 @media (min-width: 768px) {
-  #contact .contact-address, #contact .contact-phone, #contact .contact-email {
+  #contact .contact-address, #contact .contact-phone, #contact .contact-email, #contact .contact-linkedin {
     padding: 20px 0;
   }
 }
