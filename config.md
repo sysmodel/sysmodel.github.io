@@ -1,6 +1,4 @@
-<!--
-Add here global page variables to use throughout your website.
--->
+#Add here global page variables to use throughout your website.
 
 +++
 author = "Josif Figueroa"
@@ -17,7 +15,13 @@ ignore = ["node_modules/"]
 generate_rss = false
 website_title = "Sys-MoDEL"
 website_descr = "System-Level Model Development Engineering Lab"
-website_url   = "https://sysmodel.github.io"
+website_url   = "https://www.sysmodel.ca"
+
+sitemap_excluse = false
+
+robots_disallow_this_page = true
+
+generate_robots = false
 +++
 
 <!--
