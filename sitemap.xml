@@ -1,222 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://sysmodel.ca</loc>
+		<loc>https://www.sysmodel.ca</loc>
 		<priority>1.00</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site</loc>
+		<loc>https://www.sysmodel.ca/__site</loc>
 		<priority>0.80</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/_index</loc>
+		<loc>https://www.sysmodel.ca/__site/_index</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/new_page</loc>
+		<loc>https://www.sysmodel.ca/__site/new_page</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/menu3</loc>
+		<loc>https://www.sysmodel.ca/__site/menu3</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/menu2</loc>
+		<loc>https://www.sysmodel.ca/__site/menu2</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/menu1</loc>
+		<loc>https://www.sysmodel.ca/__site/menu1</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/404.html</loc>
+		<loc>https://www.sysmodel.ca/__site/404.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/tag.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/tag.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-15</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/page_foot.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/page_foot.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/news.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/news.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/intro.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/intro.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/header.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/header.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/head.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/head.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/google.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/google.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/foot.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/foot.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/fonts.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/fonts.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/contact.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/contact.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/ccsfiles.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/ccsfiles.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/about.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/about.html</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-15</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/contactform/contactform.php</loc>
+		<loc>https://www.sysmodel.ca/contactform/contactform.php</loc>
 		<priority>0.60</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/tag/syntax</loc>
+		<loc>https://www.sysmodel.ca/__site/tag/syntax</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/tag/image</loc>
+		<loc>https://www.sysmodel.ca/__site/tag/image</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/tag/code</loc>
+		<loc>https://www.sysmodel.ca/__site/tag/code</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/containers/new_page</loc>
+		<loc>https://www.sysmodel.ca/__site/containers/new_page</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/containers/menu3</loc>
+		<loc>https://www.sysmodel.ca/__site/containers/menu3</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/containers/menu2</loc>
+		<loc>https://www.sysmodel.ca/__site/containers/menu2</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/containers/menu1</loc>
+		<loc>https://www.sysmodel.ca/__site/containers/menu1</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-12</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/contactform/contactform.php</loc>
+		<loc>https://www.sysmodel.ca/__site/contactform/contactform.php</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-07-15</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_libs/owlcarousel/links.php</loc>
+		<loc>https://www.sysmodel.ca/_libs/owlcarousel/links.php</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-07-05</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/salman.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/salman.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/ramesh.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/ramesh.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/meaghan.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/meaghan.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/mackenzie.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/mackenzie.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/kush.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/kush.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/josif.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/josif.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/jeremy.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/jeremy.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/hadi.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/hadi.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/atharva.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/atharva.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/anthony.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/anthony.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/ali.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/ali.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/_layout/team/ajay.html</loc>
+		<loc>https://www.sysmodel.ca/_layout/team/ajay.html</loc>
 		<priority>0.40</priority>
 		<lastmod>2022-10-19</lastmod>
 	</url>
 	<url>
-		<loc>https://sysmodel.ca/__site/libs/owlcarousel/links.php</loc>
+		<loc>https://www.sysmodel.ca/__site/libs/owlcarousel/links.php</loc>
 		<priority>0.20</priority>
 		<lastmod>2022-07-15</lastmod>
 	</url>

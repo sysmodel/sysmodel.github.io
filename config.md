@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = false
 website_title = "Sys-MoDEL"
 website_descr = "System-Level Model Development Engineering Lab"
-website_url   = "https://sysmodel.ca"
+website_url   = "https://www.sysmodel.ca"
 
 sitemap_excluse = false
 
