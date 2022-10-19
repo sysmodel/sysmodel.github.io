@@ -13,11 +13,11 @@ Notes:
 rss_file variable in your config file if you want to use something different than 'feed'
 -->
 <rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:media="http://search.yahoo.com/mrss/"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:georss="http://www.georss.org/georss">
+  xmlns:content="https://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="https://purl.org/dc/elements/1.1/"
+  xmlns:media="https://search.yahoo.com/mrss/"
+  xmlns:atom="https://www.w3.org/2005/Atom"
+  xmlns:georss="https://www.georss.org/georss">
 
   <channel>
     <title>
