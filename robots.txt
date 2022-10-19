@@ -1,4 +1,0 @@
-Sitemap: https://sysmodel.github.io/sitemap.xml
-
-User-agent: *
-Disallow:
