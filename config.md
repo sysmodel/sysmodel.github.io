@@ -19,7 +19,7 @@ website_url   = "https://www.sysmodel.ca"
 
 sitemap_excluse = false
 
-robots_disallow_this_page = true
+robots_disallow = ["/"]
 
 generate_robots = false
 +++
