@@ -21,7 +21,6 @@ sitemap_excluse = false
 
 robots_disallow = ["/"]
 
-generate_robots = false
 +++
 
 <!--

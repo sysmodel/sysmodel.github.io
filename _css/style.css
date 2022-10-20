@@ -480,7 +480,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #intro .intro-content h2 span {
   color: #fdfdfd;
-  text-decoration: underline;
 }
 
 @media (max-width: 767px) {
@@ -498,7 +497,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 7px 21px;
   border-radius: 2px;
   transition: 0.5s;
-  margin: 0px;
+  margin: 1px;
   color: #fdfdfd;
 }
 
