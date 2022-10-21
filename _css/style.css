@@ -602,7 +602,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   float: none;
 }
 
-#research .box .icon i {
+#about .box .icon i {
   color: #444;
   font-size: 64px;
   transition: 0.5s;
@@ -610,7 +610,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 34px;
 }
 
-#research .box .icon i:before {
+#about .box .icon i:before {
   background: #0c2e8a;
   background: linear-gradient(45deg, #EE7F38 0%, #a3ebd5 100%);
   background-clip: border-box;
@@ -804,13 +804,14 @@ transition: 0.00001s all;
 #collaborators .collaborator-item {
   box-sizing: content-box;
   padding: 10px 10px 10px 0px;
-  margin: 15px 15px;
-  min-height: 250px;
+  margin: 10px 10px;
+  min-height: 150px;
+  min-height: 300px;
   align-items: center;
 }
 
 @media (max-width: 767px) {
-#collaborators .testimonial-item {
+#collaborators .collaborator-item {
     margin: 0px 0px;
     align-content: center;
   }
@@ -830,12 +831,12 @@ transition: 0.00001s all;
 
 #collaborators .testimonials-carousel img {
   width: 80%;
-  opacity: 0.7;
+  opacity: 1;
   padding: 0px 0px;
 }
 
 #collaborators img:hover {
-  opacity: 1;
+  opacity: 0.7;
 }
 
 #collaborators .owl-nav, #collaborators .owl-dots {
@@ -854,6 +855,69 @@ transition: 0.00001s all;
 }
 
 #collaborators .owl-dot.active {
+  background-color: #EE7F38;
+}
+
+/* Funding Partners Section
+--------------------------------*/
+#fundingpartners {
+  padding: 80px 0;
+}
+
+#fundingpartners .fundingpartner-item {
+  box-sizing: content-box;
+  padding: 10px 10px 10px 0px;
+  margin: 10px 10px;
+  min-height: 150px;
+  min-height: 300px;
+  align-items: center;
+}
+
+@media (max-width: 767px) {
+#fundingpartners .fundingpartner-item {
+    margin: 0px 0px;
+    align-content: center;
+  }
+}
+
+#fundingpartners .fundingpartner-item img {
+  width: 80%;
+  margin: 3em;
+}
+
+#fundingpartners p {
+  font-size: 16px;
+  align-content: center;
+  text-align: center;
+  line-height: 24px;
+}
+
+#fundingpartners .testimonials-carousel img {
+  width: 80%;
+  opacity: 1;
+  padding: 0px 0px;
+}
+
+#fundingpartners img:hover {
+  opacity: 0.7;
+}
+
+#fundingpartners .owl-nav, #fundingpartners .owl-dots {
+  margin-top: 5px;
+  text-align: center;
+}
+
+#fundingpartners .owl-dot {
+  display: inline-block;
+  align-content: flex-start;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: rgb(0, 0, 0);
+}
+
+#fundingpartners .owl-dot.active {
   background-color: #EE7F38;
 }
 
@@ -1047,7 +1111,6 @@ transition: 0.00001s all;
 #team {
   background: none;
   padding: 40px 0;
-  align-items: center;
 }
 
 #team .member {
@@ -1119,9 +1182,8 @@ transition: 0.00001s all;
 }
 
 @media (max-width: 767px) {
-  #team .news-item {
+  #team .member {
     margin: auto;
-    align-items: center;
   }
 }
 
@@ -1141,7 +1203,7 @@ transition: 0.00001s all;
 
 #contact .contact-info {
   text-align: center;
-  padding: 0 0 40px 0;
+  padding: 20px 0 80px 0;
 }
 
 #contact .contact-info i {
@@ -1158,7 +1220,7 @@ transition: 0.00001s all;
 
 #contact .contact-info h3 {
   font-size: 18px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   font-weight: bold;
   text-transform: uppercase;
   color: #999;
@@ -1183,11 +1245,15 @@ transition: 0.00001s all;
 }
 
 @media (min-width: 768px) {
+  #contact .contact-phone {
+    border-left: 1px solid #fdfdfd;
+    border-right: 1px solid #fdfdfd;
+  }
 
 }
 
 #contact #google-map {
-  height: 290px;
+  height: 300px;
   margin-bottom: 20px;
 }
 
