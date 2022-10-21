@@ -860,11 +860,11 @@ transition: 0.00001s all;
 
 /* Funding Partners Section
 --------------------------------*/
-#fundingpartners {
+#parters {
   padding: 80px 0;
 }
 
-#fundingpartners .fundingpartner-item {
+#parters .parter-item {
   box-sizing: content-box;
   padding: 10px 10px 10px 0px;
   margin: 10px 10px;
@@ -874,40 +874,40 @@ transition: 0.00001s all;
 }
 
 @media (max-width: 767px) {
-#fundingpartners .fundingpartner-item {
+#parters .parter-item {
     margin: 0px 0px;
     align-content: center;
   }
 }
 
-#fundingpartners .fundingpartner-item img {
+#parters .parter-item img {
   width: 80%;
   margin: 3em;
 }
 
-#fundingpartners p {
+#parters p {
   font-size: 16px;
   align-content: center;
   text-align: center;
   line-height: 24px;
 }
 
-#fundingpartners .testimonials-carousel img {
+#parters .testimonials-carousel img {
   width: 80%;
   opacity: 1;
   padding: 0px 0px;
 }
 
-#fundingpartners img:hover {
+#parters img:hover {
   opacity: 0.7;
 }
 
-#fundingpartners .owl-nav, #fundingpartners .owl-dots {
+#parters .owl-nav, #parters .owl-dots {
   margin-top: 5px;
   text-align: center;
 }
 
-#fundingpartners .owl-dot {
+#parters .owl-dot {
   display: inline-block;
   align-content: flex-start;
   margin: 0 5px;
@@ -917,7 +917,7 @@ transition: 0.00001s all;
   background-color: rgb(0, 0, 0);
 }
 
-#fundingpartners .owl-dot.active {
+#parters .owl-dot.active {
   background-color: #EE7F38;
 }
 
