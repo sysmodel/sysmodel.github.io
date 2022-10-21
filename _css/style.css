@@ -163,7 +163,7 @@ img {
 --------------------------------------------------------------*/
 #header {
   padding: 20px 0;
-  height: 100px;
+  height: 110px;
   z-index: 997;
   background: #222222;
   box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.35);
@@ -189,7 +189,7 @@ img {
 }
 
 #header #logo img {
-  max-height: 70px;
+  max-height: 90px;
   padding: 0;
   margin: 0;
 }
@@ -197,13 +197,13 @@ img {
 @media (max-width: 768px) {
   #header {
     padding: 20px 0px;
-    height: 70px;
+    height: 90px;
   }
   #header #logo h1 {
     font-size: 34px;
   }
   #header #logo img {
-    max-height: 45px;
+    max-height: 60px;
   }
 }
 
@@ -284,12 +284,14 @@ img {
   align-items: center;
   padding: 10px 5px;
   text-decoration: none;
+  text-transform: uppercase;
   display: inline-block;
-;
   color: #fdfdfd;
   font-family: 'IBM Plex Sans Devanagari', sans-serif;
+  word-spacing: 2px;
+  letter-spacing: 0.5px;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
   outline: none;
   
 }
@@ -314,13 +316,14 @@ img {
 }
 
 .nav-menu ul li a {
-  padding: 5px;
+  padding: 2px;
   color: #fdfdfd;
   /* transition: 0.1s; */
   display: block;
-  font-weight: 500;
-  font-size: 18px;
-  text-transform: none;
+  word-spacing: 2px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-size: 16px;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, .1);
 }
 
@@ -471,9 +474,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .intro-content h2 {
   color: #fdfdfd;
   margin-bottom: 15px;
-  font-size: 36px;
+  font-size: 38px;
   font-weight: 400;
   /* font-family: 'IBM Plex Sans Devanagari', sans-serif; */
+  text-transform: uppercase;
   font-family: 'Zilla Slab Highlight', cursive;
   text-shadow: 1px 4px 8px rgba(0, 0, 0, .9);
 }
@@ -647,7 +651,7 @@ align-items: center;
 transition: 0.00001s all;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   #about .box {
     align-items: center !important;
     width: auto;
@@ -1078,7 +1082,7 @@ transition: 0.00001s all;
   color: #fdfdfd;
 }
 
-@media (min-width: 769px) {
+@media (min-width: 767px) {
   #call-to-action .cta-btn-container {
     display: flex;
     align-items: center;
@@ -1238,13 +1242,13 @@ transition: 0.00001s all;
   margin-bottom: 0px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 767px) {
   #contact .contact-address, #contact .contact-phone, #contact .contact-email, #contact .contact-linkedin {
     padding: 20px 0;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 767px) {
   #contact .contact-phone {
     border-left: 1px solid #fdfdfd;
     border-right: 1px solid #fdfdfd;
@@ -1257,7 +1261,7 @@ transition: 0.00001s all;
   margin-bottom: 20px;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 767px) {
   #contact #google-map {
     margin-top: 20px;
   }
@@ -1512,7 +1516,7 @@ padding: 70px 0;
 /* Isotope Items
 ---------------------------------- */
 .filters {
-	margin: 0 0 20px 0;
+	margin: 0 0 30px 0;
 }
 .filters .nav-pills > li {
 	margin-right: 2px;
@@ -1535,9 +1539,6 @@ padding: 70px 0;
 }
 .isotope-item {
 	margin-bottom: 20px;
-  max-width: 50%;
-  justify-content: center;
-  position: relative;
 }
 .isotope-item .btn-default {
 	color: #FFFFFF;
@@ -1742,23 +1743,24 @@ padding: 70px 0;
   top: 0;
   right: 0;
   bottom: 0;
-  left: 2em;
-  z-index: 1050;
-  overflow: hidden;
-  outline: 0;
+  left: 0;
+  z-index: 1040;
 }
 
- .modal-content {
+.modal-dialog {
+  position: relative;
+  width: 600px;
+  margin: auto;
+}
+
+.modal-content {
 	-webkit-border-radius: 0px;
 	-moz-border-radius: 0px;
 	border-radius: 0px;
   flex-direction: column;
-  width: 100%;
   background-color: #fdfdfd;
-  background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  outline: 0;
 }
+
 .modal-header {
 	background-color: #222222;
 	color: #fdfdfd;
@@ -1774,11 +1776,12 @@ padding: 70px 0;
 }
 .modal-title {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
 }
 .modal-body {
   margin-bottom: -10px;
   }
+
 .modal-body h4 {
   font-size: 16px;
   font-weight: bold;
@@ -1811,25 +1814,13 @@ padding: 70px 0;
   justify-content: center;
 }
 
-@media (min-width:150px) {
-	.modal-lg {
-    width: 540px;
-    max-width: 100%;
-    justify-content: center !important;
-	}
-  .modal-sm {
-    width: auto;
-    max-width: 100%;
-  }
-  .modal-body img {
-    font-size: 13px;
-    width: auto;
+@media (max-width: 480px) {
+  .modal-dialog {
+    margin: 20px;
   }
 
-  .modal-body {
-    font-size: 14px;
-    width: auto;
-    margin: 0.5em;
-    justify-content: center;
-  }
+	.modal-lg {
+		width: auto;
+    max-width: 100%;
+	}
 }
