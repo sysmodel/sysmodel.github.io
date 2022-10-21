@@ -17,8 +17,6 @@ website_title = "Sys-MoDEL"
 website_descr = "System-Level Model Development Engineering Lab"
 website_url   = "https://www.sysmodel.ca"
 
-sitemap_excluse = false
-
 robots_disallow = ["/"]
 
 generate_robots = false
