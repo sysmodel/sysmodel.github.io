@@ -1534,8 +1534,8 @@ padding: 70px 0;
 }
 .isotope-container {
 	overflow: hidden;
-  justify-content: center;
-  align-content: center;
+  /* justify-content: center;
+  align-content: center; */
 }
 .isotope-item {
 	margin-bottom: 20px;
