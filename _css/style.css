@@ -802,7 +802,7 @@ transition: 0.00001s all;
 /* Collaborators Section
 --------------------------------*/
 #collaborators {
-  padding: 80px 0;
+  padding: 60px 0;
 }
 
 #collaborators .collaborator-item {
@@ -865,7 +865,7 @@ transition: 0.00001s all;
 /* Funding Partners Section
 --------------------------------*/
 #parters {
-  padding: 80px 0;
+  padding: 30px 0;
 }
 
 #parters .parter-item {
@@ -1114,7 +1114,7 @@ transition: 0.00001s all;
 
 #team {
   background: none;
-  padding: 40px 0;
+  padding: 60px 0;
 }
 
 #team .member {
@@ -1196,7 +1196,7 @@ transition: 0.00001s all;
 /* Contact Section
 --------------------------------*/
 #contact {
-  padding: 40px 0;
+  padding: 60px 0;
   background: #222222;
   color: #949494;
 }
@@ -1534,12 +1534,19 @@ padding: 70px 0;
 }
 .isotope-container {
 	overflow: hidden;
+  margin: auto !important;
   /* justify-content: center;
   align-content: center; */
+  /* display: flex;
+  flex-direction: row;
+  justify-content: center; */
 }
+
 .isotope-item {
 	margin-bottom: 20px;
+  justify-content: center;
 }
+
 .isotope-item .btn-default {
 	color: #FFFFFF;
 	background: #222222;
@@ -1553,7 +1560,7 @@ padding: 70px 0;
 }
 @media (max-width:480px) {
 	.filters .nav-pills > li {
-		width: 100%;
+		width: calc((100% / 1.1) - 5px);
 		display: block;
 	}
 
