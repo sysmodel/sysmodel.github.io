@@ -3,6 +3,7 @@
  * License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
  */
 
+
 (function($){
 	$(document).ready(function(){
 	
@@ -39,8 +40,8 @@
 					masonry: {
 						isFitWidth: false 
 					  }
-					  
 				});
+
 				// filter items on button click
 				$('.filters').on( 'click', 'ul.nav li a', function() {
 					var filterValue = $(this).attr('data-filter');
@@ -49,8 +50,34 @@
 					$container.isotope({ filter: filterValue });
 					return false;
 				});
+
+
+				// debounce so filtering doesn't happen every millisecond
+				function debounce(fn, threshold) {
+					var timeout;
+					threshold = threshold || 100;
+					return function debounced() {
+					clearTimeout(timeout);
+					var args = arguments;
+					var _this = this;
+					function delayed() {
+						fn.apply(_this, args);
+					}
+					timeout = setTimeout(delayed, threshold);
+					};
+				}
+
+
+								
+				// layout Isotope after each image loads
+				$container.imagesLoaded().progress( function() {
+					$container.isotope('layout');
+				});
+
+
 			});
 		};
+
 
 		//Modal
 		//-----------------------------------------------
