@@ -18,10 +18,11 @@
 						<!-- isotope filters start -->
 						<div class="filters text-center">
 							<ul class="nav nav-pills">
-								<li class="active"><a href="#" data-filter="*">All</a></li>
+								<li class="active"><a href="#" data-filter=".executive, .leadership, .research, .undergrad">All</a></li>
 								<li><a href="#" data-filter=".executive">Executive</a></li>								
 								<li><a href="#" data-filter=".leadership">Leadership</a></li>
 								<li><a href="#" data-filter=".research">Research</a></li>
+								<li><a href="#" data-filter=".undergrad">UnderGrad</a></li>
 								<li><a href="#" data-filter=".alumni">Alumni</a></li>
 							</ul>
 						</div>
@@ -36,14 +37,18 @@
 							{{ insert team/jeremy.html }}<!-- data-target: project-12 -->
 							{{ insert team/josif.html }}<!-- data-target: project-4 -->
 							{{ insert team/mackenzie.html }}<!-- data-target: project-5 -->
-							{{ insert team/ajay.html }}<!-- data-target: project-6 -->
-							{{ insert team/atharva.html }}<!-- data-target: project-7 -->
-							{{ insert team/meaghan.html }}<!-- data-target: project-8 -->
-							{{ insert team/ramesh.html }}<!-- data-target: project-9 -->
-							{{ insert team/salman.html }}<!-- data-target: project-10 -->
-							{{ insert team/empty.html }}
-							{{ insert team/anthony.html }}<!-- data-target: project-11 -->
-							{{ insert team/empty.html }}
+
+							{{ insert team/undergrad/simon.html }}
+							{{ insert team/undergrad/thomas.html }}
+							{{ insert team/undergrad/daniel.html }}
+							{{ insert team/undergrad/philippe.html }}
+
+							{{ insert team/alumni/ajay.html }}<!-- data-target: project-+100 -->
+							{{ insert team/alumni/atharva.html }}
+							{{ insert team/alumni/meaghan.html }}
+							{{ insert team/alumni/ramesh.html }}
+							{{ insert team/alumni/salman.html }}
+							{{ insert team/alumni/anthony.html }}
 
 						</div>
 						<!-- portfolio items end -->

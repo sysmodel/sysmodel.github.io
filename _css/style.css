@@ -806,9 +806,7 @@ transition: 0.00001s all;
 }
 
 #collaborators .collaborator-item {
-  box-sizing: content-box;
-  padding: 10px 10px 10px 0px;
-  margin: 10px 10px;
+  padding: 5px 5px 5px 5px;
   min-height: 150px;
   min-height: 300px;
   align-items: center;
@@ -822,13 +820,12 @@ transition: 0.00001s all;
 }
 
 #collaborators .collaborator-item img {
-  width: 80%;
-  margin: 3em;
+  width: 90%;
+  margin: 2em;
 }
 
 #collaborators p {
-  font-size: 16px;
-  align-content: center;
+  font-size: 17px;
   text-align: center;
   line-height: 24px;
 }
@@ -862,20 +859,21 @@ transition: 0.00001s all;
   background-color: #EE7F38;
 }
 
-/* Funding Partners Section
+
+/* Parters Partners Section
 --------------------------------*/
+
 #parters {
   padding: 30px 0;
 }
 
 #parters .parter-item {
-  box-sizing: content-box;
-  padding: 10px 10px 10px 0px;
-  margin: 10px 10px;
+  padding: 5px 5px 5px 5px;
   min-height: 150px;
   min-height: 300px;
   align-items: center;
 }
+
 
 @media (max-width: 767px) {
 #parters .parter-item {
@@ -885,12 +883,12 @@ transition: 0.00001s all;
 }
 
 #parters .parter-item img {
-  width: 80%;
-  margin: 3em;
+  width: 90%;
+  margin: 2em;
 }
 
 #parters p {
-  font-size: 16px;
+  font-size: 17px;
   align-content: center;
   text-align: center;
   line-height: 24px;
@@ -1469,7 +1467,38 @@ blockquote.twitter-tweet a:focus {
   text-decoration: underline;
 }
 
+/* Opportunities Section
+--------------------------------*/
+#opportunities {
+  padding: 30px 0;
+}
 
+#opportunities .op-item {
+  padding: 5px 5px 5px 5px;
+  min-height: 150px;
+  min-height: 300px;
+  align-items: center;
+}
+
+
+@media (max-width: 767px) {
+#opportunities .op-item {
+    margin: 0px 0px;
+    align-content: center;
+  }
+}
+
+#opportunities .op-item img {
+  width: 80%;
+  margin: 2em;
+}
+
+#opportunities .op-item p {
+  display: inline-block;
+  font-family: 'IBM Plex Sans Devanagari', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
 
 /* Custom styles------------------------------------------------------------- */
 
@@ -1636,7 +1665,7 @@ padding: 70px 0;
 /* Buttons
 ---------------------------------- */
 .btn {
-	padding: 8px 15px;
+	padding: 8px 8px;
 	font-size: 14px;
 	line-height: 1.42857143;
 	min-width: 80px;
@@ -1660,7 +1689,7 @@ padding: 70px 0;
 	border: 0;
 }
 .media-left, .media > .pull-left {
-  padding-right: 26px;
+  padding-right: 20px;
 }
 
 /* Collapse
@@ -1739,7 +1768,7 @@ padding: 70px 0;
 	padding: 8px 20px;
 	border: 1px solid #cacaca;
 	color: #222222;
-	font-size: 12px;
+	font-size: 13px;
 	text-transform: uppercase;
 	font-weight: 600;
 }
@@ -1756,7 +1785,19 @@ padding: 70px 0;
 
 .modal-dialog {
   position: relative;
-  width: 600px;
+  width: 390px;
+  margin: auto;
+}
+
+.modal-dialog img {
+  max-width: 88%;
+  align-items: center;
+  margin: auto;
+}
+
+.modal-dialog p {
+  max-width: 95%;
+  align-items: center;
   margin: auto;
 }
 
@@ -1783,10 +1824,10 @@ padding: 70px 0;
 }
 .modal-title {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 16px;
 }
 .modal-body {
-  margin-bottom: -10px;
+  margin: auto;
   }
 
 .modal-body h4 {
