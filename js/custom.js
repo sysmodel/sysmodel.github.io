@@ -36,7 +36,7 @@
 					transitionDuration: '0.4s',
 					resizable: false,
 					resizesContainer: true,
-					filter: "*",
+					filter: ".executive, .leadership, .research, .undergrad",
 					masonry: {
 						isFitWidth: false 
 					  }

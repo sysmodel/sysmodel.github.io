@@ -3,256 +3,276 @@
 	<url>
 		<loc>https://www.sysmodel.ca</loc>
 		<priority>1.00</priority>
-		<lastmod>2021-03-19</lastmod>
+		<lastmod>2020-12-15</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/offer.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-09-22</lastmod>
+		<lastmod>2022-06-20</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/contactform/contactform.php</loc>
 		<priority>0.60</priority>
-		<lastmod>2020-12-03</lastmod>
+		<lastmod>2020-08-31</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/about.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2021-10-28</lastmod>
+		<lastmod>2021-07-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/ccsfiles.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2024-01-06</lastmod>
+		<lastmod>2023-10-04</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/contact.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-01-02</lastmod>
+		<lastmod>2021-09-30</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/fonts.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2021-03-25</lastmod>
+		<lastmod>2020-12-21</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/foot.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2020-12-03</lastmod>
+		<lastmod>2020-08-31</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/head.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2022-01-15</lastmod>
+		<lastmod>2024-03-10</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/header.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2024-01-04</lastmod>
+		<lastmod>2023-10-02</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/intro.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2024-01-03</lastmod>
+		<lastmod>2023-10-01</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/news.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2020-12-03</lastmod>
+		<lastmod>2020-08-31</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/page_foot.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2020-12-03</lastmod>
+		<lastmod>2020-08-31</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/tag.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2020-12-13</lastmod>
+		<lastmod>2020-09-10</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/team.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2024-01-26</lastmod>
+		<lastmod>2024-03-19</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/404.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2021-03-19</lastmod>
+		<lastmod>2020-12-15</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/menu1</loc>
 		<priority>0.60</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/menu2</loc>
 		<priority>0.60</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/menu3</loc>
 		<priority>0.60</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/new_page</loc>
 		<priority>0.60</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/_index</loc>
 		<priority>0.60</priority>
-		<lastmod>2021-03-19</lastmod>
+		<lastmod>2020-12-15</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/collaborators.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2024-01-05</lastmod>
+		<lastmod>2023-10-03</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/parters.html</loc>
 		<priority>0.60</priority>
-		<lastmod>2024-01-02</lastmod>
-	</url>
-	<url>
-		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/ajay.html</loc>
-		<priority>0.40</priority>
-		<lastmod>2022-07-28</lastmod>
+		<lastmod>2024-03-22</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/salman.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-12</lastmod>
+		<lastmod>2022-04-09</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/meaghan.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-13</lastmod>
+		<lastmod>2022-04-10</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/empty.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-04-04</lastmod>
+		<lastmod>2021-12-31</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/team/ali.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-21</lastmod>
+		<lastmod>2022-04-18</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/team/jeremy.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2023-12-25</lastmod>
+		<lastmod>2023-09-22</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/team/josif.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-25</lastmod>
+		<lastmod>2022-04-22</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_layout/team/kush.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-26</lastmod>
+		<lastmod>2024-03-05</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/_libs/owlcarousel/links.php</loc>
 		<priority>0.40</priority>
-		<lastmod>2020-12-03</lastmod>
+		<lastmod>2020-08-31</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/contactform/contactform.php</loc>
 		<priority>0.40</priority>
-		<lastmod>2020-12-13</lastmod>
+		<lastmod>2020-09-10</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/containers/menu1</loc>
 		<priority>0.40</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/containers/menu2</loc>
 		<priority>0.40</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/containers/menu3</loc>
 		<priority>0.40</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/containers/new_page</loc>
 		<priority>0.40</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/tag/code</loc>
 		<priority>0.40</priority>
-		<lastmod>2021-03-19</lastmod>
+		<lastmod>2020-12-15</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/tag/image</loc>
 		<priority>0.40</priority>
-		<lastmod>2021-03-12</lastmod>
+		<lastmod>2020-12-08</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/tag/syntax</loc>
 		<priority>0.40</priority>
-		<lastmod>2021-03-19</lastmod>
+		<lastmod>2020-12-15</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/ben.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-22</lastmod>
+		<lastmod>2022-04-19</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/anthony.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-29</lastmod>
+		<lastmod>2022-04-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/ramesh.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-20</lastmod>
+		<lastmod>2022-04-17</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/atharva.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2022-07-19</lastmod>
+		<lastmod>2022-04-16</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/mackenzie.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2024-01-28</lastmod>
+		<lastmod>2023-10-26</lastmod>
 	</url>
 	<url>
 		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/hadi.html</loc>
 		<priority>0.40</priority>
-		<lastmod>2024-01-31</lastmod>
+		<lastmod>2023-10-29</lastmod>
 	</url>
 	<url>
-		<loc>https://www.www.sysmodel.ca/_layout/team/undergrad/philippe.html</loc>
-		<priority>0.20</priority>
-		<lastmod>2022-09-18</lastmod>
+		<loc>https://www.www.sysmodel.ca/_layout/team/ajay.html</loc>
+		<priority>0.40</priority>
+		<lastmod>2024-03-21</lastmod>
 	</url>
 	<url>
-		<loc>https://www.www.sysmodel.ca/_layout/team/undergrad/thomas.html</loc>
+		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/philippe.html</loc>
 		<priority>0.20</priority>
-		<lastmod>2022-08-31</lastmod>
+		<lastmod>2024-01-21</lastmod>
+	</url>
+	<url>
+		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/daniel.html</loc>
+		<priority>0.20</priority>
+		<lastmod>2024-01-20</lastmod>
 	</url>
 	<url>
 		<loc>https://www.sysmodel.ca/__site/libs/owlcarousel/links.php</loc>
 		<priority>0.20</priority>
-		<lastmod>2020-12-13</lastmod>
+		<lastmod>2020-09-10</lastmod>
 	</url>
 	<url>
-		<loc>https://www.www.sysmodel.ca/_layout/team/undergrad/simon.html</loc>
+		<loc>https://www.www.sysmodel.ca/_layout/team/thomas.html</loc>
 		<priority>0.20</priority>
-		<lastmod>2022-08-22</lastmod>
+		<lastmod>2024-03-13</lastmod>
 	</url>
 	<url>
-		<loc>https://www.www.sysmodel.ca/_layout/team/undergrad/daniel.html</loc>
+		<loc>https://www.www.sysmodel.ca/_layout/team/undergrad/gregory.html</loc>
 		<priority>0.20</priority>
-		<lastmod>2022-09-07</lastmod>
+		<lastmod>2024-02-05</lastmod>
+	</url>
+	<url>
+		<loc>https://www.www.sysmodel.ca/_layout/team/alumni/simon.html</loc>
+		<priority>0.20</priority>
+		<lastmod>2024-01-24</lastmod>
+	</url>
+	<url>
+		<loc>https://www.www.sysmodel.ca/_layout/team/undergrad/andrew.html</loc>
+		<priority>0.20</priority>
+		<lastmod>2024-03-11</lastmod>
+	</url>
+	<url>
+		<loc>https://www.www.sysmodel.ca/_layout/team/undergrad/john.html</loc>
+		<priority>0.20</priority>
+		<lastmod>2024-02-21</lastmod>
+	</url>
+	<url>
+		<loc>https://www.www.sysmodel.ca/_layout/team/undergrad/patrick.html</loc>
+		<priority>0.20</priority>
+		<lastmod>2024-02-20</lastmod>
 	</url>
 </urlset>
