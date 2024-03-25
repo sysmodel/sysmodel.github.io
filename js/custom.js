@@ -5,7 +5,7 @@
 
 
 (function($){
-	$(document).ready(function(){
+	//$(document).ready(function(){
 	
 		// Animations
 		//-----------------------------------------------
@@ -87,7 +87,7 @@
 			});
 		}
 
-	}); // End document ready
+	//}); // End document ready (having this here was casuing strange behavior with isotope filters)
 
 })(this.jQuery);
 
